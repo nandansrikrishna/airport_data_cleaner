@@ -6,4 +6,4 @@ def filter_airports(input_file, output_file):
                 outfile.write(line)
 
 # Usage
-filter_airports('GlobalAirportDatabase.txt', 'FilteredGlobalAirportDatabase.txt')
+filter_airports('GlobalAirportDatabase.txt', 'USAAirportDatabase.txt')
